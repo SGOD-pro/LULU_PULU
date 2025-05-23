@@ -1,0 +1,14 @@
+[project]
+name = "lulu-pulu"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "contractions>=0.1.73",
+    "imblearn>=0.0",
+    "joblib>=1.4.2",
+    "lightgbm>=4.6.0",
+    "pandas>=2.2.3",
+    "scikit-learn>=1.6.1",
+]
